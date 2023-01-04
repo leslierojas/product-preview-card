@@ -6,7 +6,23 @@ p {
     font-size: 14px;
 }
 
-button {
+.bg-white {
+    background-color: #fff;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
+
+/* 
+.row {
+    margin: 50px 70px 0px 70px;
+} */
+
+/* button {
     background-color: #3d8168;
     color:hsl(30, 38%, 92%);
     border-radius: 15px;
@@ -24,18 +40,16 @@ button:hover {
 
 button, .cart-img {
     vertical-align: middle;
-}
+} */
 
-.cart-img {
+
+
+/* .cart-img {
     margin-right: 8px;
-}
+} */
 
-.attribution {
-    font-size: 11px;
-    text-align: center;
-    color: hsl(228, 45%, 44%);
-}
 
+/*
 .item-card {
     margin: auto;
     display: flex;
@@ -112,4 +126,4 @@ button, .cart-img {
     flex-direction: row;
     vertical-align: middle;
     margin-top: 10px;
-}
+} */
